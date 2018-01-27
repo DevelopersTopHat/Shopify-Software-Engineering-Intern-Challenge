@@ -1,5 +1,5 @@
-# Shopify-Software-Engineering-Intern-Challenge-Summer-2018
-I am uploading my solution to the summer of 2018 SWE intern challenge, now that the due date has passed.
+# Shopify-Software-Engineering-Intern-Challenge
+I am uploading my solution to the SWE intern challenge, now that the due date has passed.
 This is 100% the work of Abdeali Daginawala.
 
 The challenge was: given the links to a JSON API containing menu nodes, create a JSON file that contains the list of all valid menus, and a list of all invalid menus. Menus should not contain cyclical references and can have a maximum depth of 4.
